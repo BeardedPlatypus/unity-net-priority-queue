@@ -24,3 +24,10 @@ from GIT url..." and add the following url:
 ```
 https://github.com/BeardedPlatypus/unity-net-priority-queue.git
 ```
+## Attribution
+
+The source files are copied from [the `PriorityQueue.cs`][priorityqueue.cs] and 
+related files in [the dotnet runtime repository][dotnet_runtime].
+
+[priorityqueue.cs]: https://github.com/dotnet/runtime/blob/main/src/libraries/System.Collections/src/System/Collections/Generic/PriorityQueue.cs
+[dotnet_runtime]: https://github.com/dotnet/runtime/tree/main
