@@ -1,0 +1,12 @@
+{
+  "name": "com.beardedplatypus.priorityqueue",
+  "version": "1.0.0",
+  "displayName": ".NET PriorityQueue",
+  "description": "'.NET PriorityQueue' provides the PriorityQueue from .NET 6 and up as a UPM package.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Maarten Tegelaers",
+    "email": "mwtegelaers@gmail.com",
+    "url": "https://github.com/BeardedPlatypus"
+  }
+}
